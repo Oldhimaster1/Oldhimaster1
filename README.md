@@ -55,7 +55,7 @@ If you’re looking through my work, you’ll probably get the best idea of what
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oldhimaster1&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldhimaster1&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oldhimaster1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldhimaster1&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=html,css&exclude_repo=HTML-Games-V2,gfiles,Offline-HTML-Games-Pack)
 
 Thanks for stopping by.
