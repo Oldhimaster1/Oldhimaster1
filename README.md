@@ -58,4 +58,12 @@ If you’re looking through my work, you’ll probably get the best idea of what
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oldhimaster1&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldhimaster1&layout=compact&theme=transparent&hide_border=true&langs_count=6&hide=html,css&exclude_repo=HTML-Games-V2,gfiles,Offline-HTML-Games-Pack)
 
+## License / Copyright
+
+Unless otherwise stated, the written content in this profile README, including its bio/intro text, is © Oldhimaster1.
+
+Please do not copy, reuse, or republish this profile text as a template or personal bio without permission.
+
+Code in individual repositories may be licensed separately under their own terms.
+
 Thanks for stopping by.
